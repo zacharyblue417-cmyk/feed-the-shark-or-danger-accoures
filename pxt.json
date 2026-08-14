@@ -1,5 +1,6 @@
 {
     "name": "feed the shark or danger accoures",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
